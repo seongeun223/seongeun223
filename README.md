@@ -1,12 +1,17 @@
 ### Hi there 👋
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dca0f8,100:9a1cab&height=120&text=seongeun%20github&animation=blink&fontColor=8c8c8c&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
-
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          </div>
+    </div>
+    
 
     
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ![myprofiles](https://github-readme-stats.vercel.app/api?username=seongeun223&theme=blue-green)
 
     
