@@ -9,13 +9,10 @@
           </div>
     </div>
     
+![hit-counter](https://github.com/gjbae1212/hit-counter)
 
     
 
 ![myprofiles](https://github-readme-stats.vercel.app/api?username=seongeun223&theme=blue-green)
 
-    
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=b5e3cf&height=120&text=&animation=&fontColor=000000&fontSize=20" />
-    </div>
     
