@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](<div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dca0f8,100:9a1cab&height=120&text=seongeun%20github&animation=blink&fontColor=8c8c8c&fontSize=60" />
     </div>
     
