@@ -16,6 +16,6 @@
 
     
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=b5e3cf&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=b5e3cf&height=120&text=&animation=&fontColor=000000&fontSize=20" />
     </div>
     
